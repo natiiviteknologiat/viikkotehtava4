@@ -31,7 +31,3 @@ fun Viikkotehtava4Theme(
         content = content
     )
 }
-
-
-
-
